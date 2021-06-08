@@ -345,6 +345,9 @@ img {vertical-align: middle;}
   .prev, .next,.text {font-size: 11px}
 }
 
+.name a h3 {
+    text-decoration: none;
+
 .name h3{
     margin: auto;
     text-decoration: none;
